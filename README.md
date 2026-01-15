@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/neanicc&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/neanicc" /> </p>
 
-- - 🔭 I'm currently working on **[Sketchy](https://github.com/abrj7/sketchy)**
+- 🔭 I'm currently working on **[Sketchy](https://github.com/abrj7/sketchy)**
 
 - 🌱 I'm currently learning **DSA**
 
