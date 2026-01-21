@@ -8,7 +8,7 @@
 
 * 📫 How to reach me: **[ali.imran@uwaterloo.ca](mailto:ali.imran@uwaterloo.ca)**
 
-* ⚡ Fun fact: **I love food!**
+* ⚡ Fun fact: **I'm an avid Raptors fan :)**
 
 
 
