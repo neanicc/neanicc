@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=neanicc&style=for-the-badge)
 # 💫 About Me:
-* 🔭 I'm currently working on **[Sketchy](https://github.com/abrj7/sketchy)** & **[Otto](https://github.com/abrj7/otto)** **(1st Place For LiveKit Track @ NexHacks)**
+* 🔭 I'm currently working on **[Otto](https://github.com/abrj7/otto)** **(1st Place For LiveKit Track @ NexHacks)**
 
 * 🌱 I'm currently learning **DSA**
 
