@@ -6,6 +6,8 @@
 
 * 🌱 I'm currently learning **DSA**
 
+* 👨‍💻 All of my projects are available at [https://neanicc.github.io/](https://neanicc.github.io//)
+
 * 📫 How to reach me: **[ali.imran@uwaterloo.ca](mailto:ali.imran@uwaterloo.ca)**
 
 * ⚡ Fun fact: **I'm an avid Raptors fan :)**
