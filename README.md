@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=neanicc&style=for-the-badge)
 # about me:
-* ios developer intern @ **[axibo](https://www.axibo.com/)**
+* prev. swe intern @ **[axibo](https://www.axibo.com/)**
   
 * software engineering @ **[uwaterloo](https://uwaterloo.ca/engineering/)**
   
