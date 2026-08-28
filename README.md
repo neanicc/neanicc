@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=neanicc&style=for-the-badge)
 # about me:
-* prev. swe intern @ **[axibo](https://www.axibo.com/)**
+* prev. swe @ **[axibo](https://www.axibo.com/)**
   
 * software engineering @ **[uwaterloo](https://uwaterloo.ca/engineering/)**
   
